@@ -2,7 +2,8 @@
 <h1 align="center">Olá meu nome é Gabriel</h1>
 
 ### Experiência profissional:
-* Estagiário de desenvolvimento web na Helpper. [Remoto. Janeiro 2022 - Atual]
+* Estagiário de desenvolvimento web na Helpper. [Remoto. Janeiro 2022 - Julho 2022]
+* Desenvolvedor de Back-end na Helpper. [Remoto. Agosto 2022 - Atual]
 
 ### Interesses
 * Desenvolvimento de Back-end
