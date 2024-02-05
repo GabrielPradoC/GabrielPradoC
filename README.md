@@ -3,7 +3,7 @@
 
 ### Experiência profissional:
 * Estagiário de desenvolvimento web na Helpper. [Remoto. Janeiro 2022 - Julho 2022]
-* Desenvolvedor de Back-end na Helpper. [Remoto. Agosto 2022 - Atual]
+* Desenvolvedor de Back-end na Helpper. [Remoto. Agosto 2022 - Janeiro 2023]
 
 ### Interesses
 * Desenvolvimento de Back-end
